@@ -1,6 +1,6 @@
 # QuickIO
 
-Create quick static io connections.
+Create quick static site io connections.
 
 ```html
 <script src="https://ephf.github.io/quickio/quickio.min.js"></script>
