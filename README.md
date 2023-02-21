@@ -2,6 +2,8 @@
 
 Create quick static site io connections.
 
+See [this example](https://ephf.github.io/quickio/example)
+
 ```html
 <script src="https://ephf.github.io/quickio/quickio.min.js"></script>
 ```
